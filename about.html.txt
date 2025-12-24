@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>About | Mickey & Boo</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+
+<header class="container">
+  <h1 class="logo">Mickey & Boo</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="services.html">Services</a>
+    <a href="contact.html" class="btn">Contact</a>
+  </nav>
+</header>
+
+<section class="container">
+  <h2>About Mickey & Boo</h2>
+  <p>
+    Mickey & Boo is a consulting and automation firm focused on building practical,
+    scalable systems for modern businesses.
+  </p>
+  <p>
+    We partner with startups and enterprises to remove operational friction,
+    automate workflows, and create tools that support long-term growth.
+  </p>
+</section>
+
+<footer class="container footer">
+  <p>© 2025 Mickey & Boo</p>
+</footer>
+
+</body>
+</html>

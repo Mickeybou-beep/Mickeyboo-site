@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mickey & Boo | Business Consulting & Automation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+
+<header class="container">
+  <h1 class="logo">Mickey & Boo</h1>
+  <nav>
+    <a href="services.html">Services</a>
+    <a href="about.html">About</a>
+    <a href="contact.html" class="btn">Contact</a>
+  </nav>
+</header>
+
+<section class="hero container">
+  <h2>Building smart automation and business systems that scale.</h2>
+  <p>
+    Mickey & Boo is a business consulting and automation firm helping startups and enterprises
+    streamline operations, build internal tools, and move faster with less overhead.
+  </p>
+  <a href="contact.html" class="btn primary">Book a Discovery Call</a>
+</section>
+
+<section class="container grid">
+  <div class="card">
+    <h3>Business Consulting</h3>
+    <p>Process design, operational efficiency, and growth systems built for scale.</p>
+  </div>
+  <div class="card">
+    <h3>Automation & Workflows</h3>
+    <p>No-code, low-code, and API-driven automation that removes manual work.</p>
+  </div>
+  <div class="card">
+    <h3>Custom Business Tools</h3>
+    <p>Dashboards, internal tools, and reporting systems tailored to your business.</p>
+  </div>
+</section>
+
+<section class="container highlight">
+  <h3>Why Mickey & Boo</h3>
+  <ul>
+    <li>Automation-first mindset</li>
+    <li>Founder and operator focused</li>
+    <li>Practical, not theoretical</li>
+    <li>Designed to scale from day one</li>
+  </ul>
+</section>
+
+<footer class="container footer">
+  <p>© 2025 Mickey & Boo. All rights reserved.</p>
+</footer>
+
+</body>
+</html>

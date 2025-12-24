@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Services | Mickey & Boo</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+
+<header class="container">
+  <h1 class="logo">Mickey & Boo</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html" class="btn">Contact</a>
+  </nav>
+</header>
+
+<section class="container">
+  <h2>Our Services</h2>
+
+  <h3>Business Consulting</h3>
+  <p>We analyze operations, identify bottlenecks, and design systems that support sustainable growth.</p>
+
+  <h3>Automation & Integration</h3>
+  <p>Workflow automation, internal tools, and integrations using modern platforms and APIs.</p>
+
+  <h3>Startup Enablement</h3>
+  <p>MVP systems, automation-first architecture, and scalable operational foundations.</p>
+</section>
+
+<footer class="container footer">
+  <p>© 2025 Mickey & Boo</p>
+</footer>
+
+</body>
+</html>
